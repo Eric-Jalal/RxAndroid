@@ -9,34 +9,6 @@ If you are using RxAndroid also, then add the following
 compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
 ```
 
-# RxJava 2 Examples present in this sample project
-
-* RxJava 2.0 Example using `CompositeDisposable` as `CompositeSubscription` and `Subscription` have
-been removed.
-
-* RxJava 2 Example using `Flowable`.
-
-* RxJava 2 Example using `SingleObserver`, `CompletableObserver`.
-
-* RxJava 2 Example using RxJava2 operators such as `map, zip, take, reduce, flatMap, filter, buffer, skip, merge, concat, replay`, and much more:
-
-* RxJava 2 Android Samples using `Function` as `Func1` has been removed.
-
-* RxJava 2 Android Samples  using `BiFunction` as `Func2` has been removed.
-
-* And many others android examples
-
-# Quick Look on few changes done in RxJava2 over RxJava1
-
-RxJava1 -> RxJava2
-
-* `onCompleted` -> `onComplete` - without the trailing d
-* `Func1` -> `Function`
-* `Func2` -> `BiFunction`
-* `CompositeSubscription` -> `CompositeDisposable`
-* `limit` operator has been removed - Use `take` in RxJava2
-* and much more.
-
 # Operators :
 * `Map` -> transform the items emitted by an Observable by applying a function to each item
 * `Zip` -> combine the emissions of multiple Observables together via a specified function and emit single items for each combination based on the results of this function
