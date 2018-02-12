@@ -18,10 +18,6 @@ import io.reactivex.functions.Function;
 import io.reactivex.functions.Predicate;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by amitshekhar on 15/10/17.
- */
-
 public class SearchActivity extends AppCompatActivity {
 
     public static final String TAG = SearchActivity.class.getSimpleName();

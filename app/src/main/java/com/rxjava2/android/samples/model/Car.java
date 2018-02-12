@@ -5,9 +5,7 @@ import java.util.concurrent.Callable;
 import io.reactivex.Observable;
 import io.reactivex.ObservableSource;
 
-/**
- * Created by amitshekhar on 30/08/16.
- */
+
 public class Car {
 
     private String brand;

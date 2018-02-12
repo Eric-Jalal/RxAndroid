@@ -15,9 +15,7 @@ import io.reactivex.Observable;
 import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 
-/**
- * Created by techteam on 13/09/16.
- */
+
 public class DistinctExampleActivity extends AppCompatActivity {
 
     private static final String TAG = DistinctExampleActivity.class.getSimpleName();

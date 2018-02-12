@@ -23,9 +23,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.BiFunction;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
+
 public class ZipExampleActivity extends AppCompatActivity {
 
     private static final String TAG = ZipExampleActivity.class.getSimpleName();

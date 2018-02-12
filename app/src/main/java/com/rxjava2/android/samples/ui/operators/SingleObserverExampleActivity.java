@@ -14,9 +14,7 @@ import io.reactivex.Single;
 import io.reactivex.SingleObserver;
 import io.reactivex.disposables.Disposable;
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
+
 public class SingleObserverExampleActivity extends AppCompatActivity {
 
     private static final String TAG = SingleObserverExampleActivity.class.getSimpleName();

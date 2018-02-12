@@ -5,9 +5,6 @@ import android.widget.SearchView;
 import io.reactivex.Observable;
 import io.reactivex.subjects.PublishSubject;
 
-/**
- * Created by amitshekhar on 15/10/17.
- */
 
 public class RxSearchObservable {
 

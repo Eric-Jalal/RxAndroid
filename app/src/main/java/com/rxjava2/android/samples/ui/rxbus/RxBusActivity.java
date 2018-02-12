@@ -15,10 +15,6 @@ import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by amitshekhar on 06/02/17.
- */
-
 public class RxBusActivity extends AppCompatActivity {
 
     public static final String TAG = RxBusActivity.class.getSimpleName();

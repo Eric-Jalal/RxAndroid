@@ -20,9 +20,6 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by amitshekhar on 22/12/16.
- */
 
 public class DebounceExampleActivity extends AppCompatActivity {
 

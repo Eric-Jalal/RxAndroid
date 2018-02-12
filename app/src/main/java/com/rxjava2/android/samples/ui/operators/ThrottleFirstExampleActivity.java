@@ -21,9 +21,6 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
 
-/**
- * Created by threshold on 2017/1/11.
- */
 
 public class ThrottleFirstExampleActivity extends AppCompatActivity {
 

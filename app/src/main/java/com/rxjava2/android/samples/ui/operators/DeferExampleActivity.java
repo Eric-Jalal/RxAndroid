@@ -15,9 +15,7 @@ import io.reactivex.Observable;
 import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 
-/**
- * Created by amitshekhar on 30/08/16.
- */
+
 public class DeferExampleActivity extends AppCompatActivity {
 
     private static final String TAG = DeferExampleActivity.class.getSimpleName();

@@ -1,8 +1,5 @@
 package com.rxjava2.android.samples.model;
 
-/**
- * Created by amitshekhar on 04/02/17.
- */
 
 public class UserDetail {
 

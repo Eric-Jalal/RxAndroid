@@ -18,9 +18,6 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by amitshekhar on 05/03/17.
- */
 
 public class DelayExampleActivity extends AppCompatActivity {
 

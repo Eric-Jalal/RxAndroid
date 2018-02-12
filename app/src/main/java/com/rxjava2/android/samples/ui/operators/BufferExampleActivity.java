@@ -16,9 +16,7 @@ import io.reactivex.Observable;
 import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
+
 public class BufferExampleActivity extends AppCompatActivity {
 
     private static final String TAG = BufferExampleActivity.class.getSimpleName();

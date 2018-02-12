@@ -18,9 +18,7 @@ import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.observers.DisposableObserver;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
+
 public class IntervalExampleActivity extends AppCompatActivity {
 
     private static final String TAG = IntervalExampleActivity.class.getSimpleName();

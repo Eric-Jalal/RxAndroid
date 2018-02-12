@@ -16,9 +16,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
+
 public class SimpleExampleActivity extends AppCompatActivity {
 
     private static final String TAG = SimpleExampleActivity.class.getSimpleName();

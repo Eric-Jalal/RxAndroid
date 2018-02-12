@@ -9,9 +9,7 @@ import com.rxjava2.android.samples.model.User;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
+
 public class Utils {
 
     private Utils() {

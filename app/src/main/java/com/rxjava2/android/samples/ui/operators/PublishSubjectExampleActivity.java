@@ -14,10 +14,6 @@ import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.subjects.PublishSubject;
 
-/**
- * Created by amitshekhar on 17/12/16.
- */
-
 public class PublishSubjectExampleActivity extends AppCompatActivity {
 
     private static final String TAG = PublishSubjectExampleActivity.class.getSimpleName();

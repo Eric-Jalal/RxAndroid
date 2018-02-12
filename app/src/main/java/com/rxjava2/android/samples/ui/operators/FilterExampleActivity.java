@@ -16,9 +16,6 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Predicate;
 
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
 public class FilterExampleActivity extends AppCompatActivity {
 
     private static final String TAG = FilterExampleActivity.class.getSimpleName();

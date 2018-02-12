@@ -10,9 +10,6 @@ import io.reactivex.ObservableTransformer;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
 
-/**
- * Created by werockstar on 5/19/2017.
- */
 
 public class RxSchedulers {
 

@@ -15,9 +15,6 @@ import io.reactivex.SingleObserver;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.BiFunction;
 
-/**
- * Created by amitshekhar on 27/08/16.
- */
 public class FlowableExampleActivity extends AppCompatActivity {
 
     private static final String TAG = FlowableExampleActivity.class.getSimpleName();
@@ -30,6 +27,9 @@ public class FlowableExampleActivity extends AppCompatActivity {
         setContentView(R.layout.activity_example);
         btn = (Button) findViewById(R.id.btn);
         textView = (TextView) findViewById(R.id.textView);
+
+
+
 
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
